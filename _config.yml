@@ -50,10 +50,10 @@ author_work_experiences:
 # Education
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: Korea University
+                college_url: https://www.korea.ac.kr
+                college_degree: Physics(Electrical Engineering)
+                description: Bachelor of Science(Bachelor of Technology)
                 visibility: true
 
 # Projects
@@ -71,11 +71,11 @@ author_project_details:
 
 # social links
 twitter_username: johndoe
-github_username:  sujaykundu777
+github_username:  hjkornn-phys
 facebook_username: johndoe
 linkedin_username: johndoe
 behance_username: johndoe
-instagram_username: johndoe
+instagram_username: hj.bem
 medium_username: johndoe
 telegram_username: johndoe
 dribbble_username: johndoe
@@ -101,7 +101,7 @@ highlighter: rouge
 permalink: pretty
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: False
 show_author_education_details: true
 show_author_project_details: true
 
