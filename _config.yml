@@ -63,7 +63,7 @@ author_project_details:
                 project_description: A Platform built for Education, including Deep Learning 
                 project_url: https://futureskill.io
                 visibility: true
-              - project_thumbnail: favicon.PNG
+              - project_thumbnail: FSDL.PNG
                 project_title: Full Stack Deep Learning
                 project_description: A Course that teaches full-stack production Deep Learning, not just training them
                 project_url: https://fullstackdeeplearning.com/spring2021/
