@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: QQ.png
 author: Ahn, Hyung-Jun 
 author_bio: Hi, my name is Hyung-Jun and I am exploring the world of Machine Learning :)
 author_email: "hjkornn@gmail.com"
@@ -63,7 +63,7 @@ author_project_details:
                 project_description: A Platform built for Education, including Deep Learning 
                 project_url: https://futureskill.io
                 visibility: true
-              - project_thumbnail: FSDL.PNG
+              - project_thumbnail: FSDL.png
                 project_title: Full Stack Deep Learning
                 project_description: A Course that teaches full-stack production Deep Learning, not just training them
                 project_url: https://fullstackdeeplearning.com/spring2021/
