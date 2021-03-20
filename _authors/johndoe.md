@@ -1,13 +1,13 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
+name: Ahn, HyungJun 
+username: HJ
+bio: "Hi I am HyungJun, ML developer ."
 site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
+avatar: QQ.png
+email: hjkornn@gmail.com
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/hjkornn-phys"
     - title: "linkedin"
       url: "https://www.linkedin.com/in/johndoe"
     - title: "youtube"
